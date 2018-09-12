@@ -5,5 +5,4 @@ class Dog
   def sitting
     "The Dog is sitting"
   end
-
 end
